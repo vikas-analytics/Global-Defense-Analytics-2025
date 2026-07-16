@@ -24,5 +24,4 @@ SIPRI
 Federation of American Scientists (FAS)
 World Bank
 FlagCDN
-(5) example of dashboard preview
-https://github.com/vikas-analytics/Global-Defense-Analytics-2025/blob/main/Global%20Analytics%202025%20.png
+(5) Dashboard preview
