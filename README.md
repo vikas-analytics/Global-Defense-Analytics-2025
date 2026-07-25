@@ -1,7 +1,7 @@
 # Global-Defense-Analytics-2025
 (1) This project is an interactive Power BI dashboard analyzing the defense capabilities of the world's top 30 military powers. It provides insights into defense budgets, military personnel, air force, naval force, land equipment, and estimated nuclear warheads through interactive visualizations.
 
-(2) Features
+(2) Featuress
 Interactive Country Slicer
 Defense Budget Analysis
 Military Personnel Overview
