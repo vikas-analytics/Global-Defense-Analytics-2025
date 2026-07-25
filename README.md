@@ -15,7 +15,7 @@ Military Power Comparison
 (3) Tools Used
 Microsoft Power BI
 Microsoft Excel
-DAXx
+DAX
 Power Query
 
 (4) Data Sources
